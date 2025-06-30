@@ -27,8 +27,13 @@ That’s what this platform aims to do:
 - Interactive Modules & Scenario-based Learning  
 - Real DevOps Practices in Action
 
+## 🌐 Try It Now  
+[🔗 Click here to launch Joseph’s Empire on Streamlit](https://je-case-studies-haqoxuyrcesxc4u7g8ykaj.streamlit.app/)
+
 ## 💡 Motto  
 "Not just knowledge for the brain — but revival for the soul."
 
 ---
+
+📘 [Arabic Version – النسخة العربية](README.ar.md)  
 📄 [English Version](README.en.md)

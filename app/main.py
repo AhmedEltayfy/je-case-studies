@@ -48,6 +48,8 @@ if page == "الصفحة الرئيسية":
     st.markdown("📄 [النسخة العربية](https://github.com/AhmedEltayfy/JE/blob/main/README.ar.md)")
     st.markdown("📘 [English Version](https://github.com/AhmedEltayfy/JE/blob/main/README.md)")
     st.markdown("---")
+    st.markdown("## 🌟 الآن يمكنك مشاركة تجربتك مباشرة:")
+    st.markdown("[🔗 اضغط هنا لتجربة Joseph’s Empire عبر Streamlit](https://je-case-studies-haqoxuyrcesxc4u7g8ykaj.streamlit.app/)")
     st.caption("Made with 💡 and purpose by Ahmed Anwar Eltayfy")
 
 elif page == "DevOps Fundamentals":
